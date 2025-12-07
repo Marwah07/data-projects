@@ -1,4 +1,4 @@
-# Project Skripsi: Prediksi Kesehatan Mental Mahasiswa
+# Project Penelitian : Prediksi Kesehatan Mental Mahasiswa
 
 Project ini menggunakan dataset prodi dan IPK mahasiswa untuk membangun model prediksi kesehatan mental dengan metode:
 
